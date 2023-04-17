@@ -14,7 +14,7 @@
     - CocoaPods
 - 라이브러리
     - Alamofire
-        - RxSwift, RxCocoa
+    - RxSwift, RxCocoa
     - SwiftKeychainWrapper
     
 ## 사용예시
